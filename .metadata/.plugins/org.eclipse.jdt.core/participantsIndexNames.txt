@@ -1,4 +1,6 @@
 INDEX VERSION 1.134
+D:\workspace\01_servelt\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1838949642.index
+\session-authentication\src\main\java
 D:\workspace\01_servelt\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\569309455.index
 \chap07-forward\src\main\java
 D:\workspace\01_servelt\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4133640689.index
@@ -7,6 +9,8 @@ D:\workspace\01_servelt\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\40
 \chap01_lije-sycle\src\main\java
 D:\workspace\01_servelt\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\62649161.index
 \chap02-service-method\src\main\java
+D:\workspace\01_servelt\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3209216404.index
+\session-authentication\src\main\java
 D:\workspace\01_servelt\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4077875631.index
 \chap09-cookie\src\main\java
 D:\workspace\01_servelt\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\510694036.index
